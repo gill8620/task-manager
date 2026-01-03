@@ -17,39 +17,43 @@ Task Master is a sleek, intuitive, and high-performance Task Management applicat
 🔒 Local Storage: Keep your data safe and accessible offline.
 
 📸 App Preview
-Dashboard:
-<img width="958" height="467" alt="Dash" src="https://github.com/user-attachments/assets/f6af2de0-dbcd-46eb-afb4-46f073bec4d0" />
-Description:
+**Dashboard**:
+![11](https://github.com/user-attachments/assets/2efb745f-1493-4a7a-9927-e36caea0d5e2)
 
-<img width="953" height="424" alt="Des" src="https://github.com/user-attachments/assets/8f326afe-01dc-4b7d-8c9a-26598b3f0bf7" />
+**Description**:
 
-Add Task:
-<img width="956" height="455" alt="Add" src="https://github.com/user-attachments/assets/dd1aeec7-3941-46a7-bba6-71878bf8e15b" />
+![WhatsApp Image 2026-01-03 at 3 26 43 PM](https://github.com/user-attachments/assets/bf5aa708-6379-4518-b68a-ffffd6cf4cdc)
 
 
-🛠️ Tech Stack
+**Add Task**:
 
-Framework: Flutter
+![14](https://github.com/user-attachments/assets/c8d1cbc4-a8ce-4501-b02a-fb6c51fba1e1)
+**CODE Snippets**
 
-Language: Dart
+
+**🛠️ Tech Stack**
+
+**Framework**: Flutter
+
+**Language**: Dart
 
 State Management: Provider / BLoC (Edit as per your choice)
 
-Database: Hive / SQLite / Firebase
+**Database**: Hive / SQLite / Firebase
 
-Local Notifications: flutter_local_notifications
+**Local Notifications**: flutter_local_notifications
 
-🚀 Getting Started
+**🚀 Getting Started**
 
 Follow these steps to get the project up and running on your local machine.
 
-Prerequisites
+**Prerequisites**
 
 Flutter SDK installed.
 
 An IDE (VS Code or Android Studio).
 
-Installation
+**Installation**
 
 Clone the repository:
 
@@ -61,7 +65,7 @@ Navigate to the project directory:
 cd task-master-flutter
 
 
-Install dependencies:
+**Install dependencies:**
 
 flutter pub get
 
@@ -71,7 +75,7 @@ Run the app:
 flutter run
 
 
-📂 Folder Structure
+**📂 Folder Structure**
 
 lib/
 ├── core/           # Constants, themes, and utilities
@@ -82,7 +86,7 @@ lib/
 └── widgets/        # Reusable UI components
 
 
-🤝 Contributing
+**🤝 Contributing**
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -96,7 +100,7 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📄 License
+**📄 License**
 
 Distributed under the MIT License. See LICENSE for more information.
 
