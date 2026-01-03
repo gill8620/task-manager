@@ -28,8 +28,9 @@ Task Master is a sleek, intuitive, and high-performance Task Management applicat
 **Add Task**:
 
 ![14](https://github.com/user-attachments/assets/c8d1cbc4-a8ce-4501-b02a-fb6c51fba1e1)
-**CODE Snippets**
 
+**CODE Snippets**
+<img width="1188" height="738" alt="Screenshot 2026-01-03 163945" src="https://github.com/user-attachments/assets/985c08ac-3fa1-4ccf-972a-11068b9ca1aa" /><img width="1188" height="738" alt="Screenshot 2026-01-03 163945" src="https://github.com/user-attachments/assets/cf0da997-b106-4017-86cd-3c8d3f9c2bb3" /><img width="1920" height="1080" alt="Screenshot 2026-01-03 164159" src="https://github.com/user-attachments/assets/13854a8d-a5ba-491c-a97c-660c3c8d24a4" /><img width="1497" height="736" alt="Screenshot 2026-01-03 164253" src="https://github.com/user-attachments/assets/60014787-a135-4bcf-b42e-763b3196d9d9" />
 
 **🛠️ Tech Stack**
 
