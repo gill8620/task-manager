@@ -1,8 +1,8 @@
-📝 Task Master - Flutter Task Manager App
+## 📝 Task Master - Flutter Task Manager App
 
 Task Master is a sleek, intuitive, and high-performance Task Management application built with Flutter. It's designed to help users organize their daily lives with ease, featuring a clean UI, smooth transitions, and robust task tracking.
 
-✨ Key Features
+## ✨ Key Features
 
 ✅ Effortless Task Creation: Add, edit, and delete tasks in seconds.
 
@@ -16,21 +16,51 @@ Task Master is a sleek, intuitive, and high-performance Task Management applicat
 
 🔒 Local Storage: Keep your data safe and accessible offline.
 
-📸 App Preview
-**Dashboard**:
-![11](https://github.com/user-attachments/assets/2efb745f-1493-4a7a-9927-e36caea0d5e2)
+## 📸 App Preview
+## 📊 Dashboard | 📝 Description | ➕ Add Task
 
-**Description**:
+<p align="center">
+  <figure>
+    <img src="https://github.com/user-attachments/assets/2efb745f-1493-4a7a-9927-e36caea0d5e2" alt="Dashboard" width="250"/>
+    <figcaption align="center"><b>Dashboard</b></figcaption>
+  </figure>
 
-![WhatsApp Image 2026-01-03 at 3 26 43 PM](https://github.com/user-attachments/assets/bf5aa708-6379-4518-b68a-ffffd6cf4cdc)
+  <figure>
+    <img src="https://github.com/user-attachments/assets/bf5aa708-6379-4518-b68a-ffffd6cf4cdc" alt="Description" width="250"/>
+    <figcaption align="center"><b>Description</b></figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/c8d1cbc4-a8ce-4501-b02a-fb6c51fba1e1" alt="Add Task" width="250"/>
+    <figcaption align="center"><b>Add Task</b></figcaption>
+  </figure>
+</p>
 
 
-**Add Task**:
+## 💻 CODE Snippets
 
-![14](https://github.com/user-attachments/assets/c8d1cbc4-a8ce-4501-b02a-fb6c51fba1e1)
+<p align="center">
+  <figure>
+    <img src="https://github.com/user-attachments/assets/985c08ac-3fa1-4ccf-972a-11068b9ca1aa" alt="Code Snippet 1" width="300"/>
+    <figcaption align="center"><b>Snippet 1</b></figcaption>
+  </figure>
 
-**CODE Snippets**
-<img width="1188" height="738" alt="Screenshot 2026-01-03 163945" src="https://github.com/user-attachments/assets/985c08ac-3fa1-4ccf-972a-11068b9ca1aa" /><img width="1188" height="738" alt="Screenshot 2026-01-03 163945" src="https://github.com/user-attachments/assets/cf0da997-b106-4017-86cd-3c8d3f9c2bb3" /><img width="1920" height="1080" alt="Screenshot 2026-01-03 164159" src="https://github.com/user-attachments/assets/13854a8d-a5ba-491c-a97c-660c3c8d24a4" /><img width="1497" height="736" alt="Screenshot 2026-01-03 164253" src="https://github.com/user-attachments/assets/60014787-a135-4bcf-b42e-763b3196d9d9" />
+  <figure>
+    <img src="https://github.com/user-attachments/assets/cf0da997-b106-4017-86cd-3c8d3f9c2bb3" alt="Code Snippet 2" width="300"/>
+    <figcaption align="center"><b>Snippet 2</b></figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/13854a8d-a5ba-491c-a97c-660c3c8d24a4" alt="Code Snippet 3" width="300"/>
+    <figcaption align="center"><b>Snippet 3</b></figcaption>
+  </figure>
+
+  <figure>
+    <img src="https://github.com/user-attachments/assets/60014787-a135-4bcf-b42e-763b3196d9d9" alt="Code Snippet 4" width="300"/>
+    <figcaption align="center"><b>Snippet 4</b></figcaption>
+  </figure>
+</p>
+
 
 **🛠️ Tech Stack**
 
